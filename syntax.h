@@ -1,4 +1,15 @@
+void statement();
 void expression();
 void term();
 void factor();
 void sscaner();
+void error();
+void anlyse_syntax();
+void program();
+void block();
+void statement_strand();
+void assign_statement();
+void if_statement();
+void condition();
+void operator();
+void do_statement();
